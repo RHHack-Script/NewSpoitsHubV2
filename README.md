@@ -1,1 +1,3 @@
-# NewSpoitsHubV2
+## NewSpoitsHubV2 Support Games: 
+
+#### Blade Ball
